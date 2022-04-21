@@ -1,0 +1,10 @@
+SKS
+Total (150000)
+Diskon (0,25)
+Masukkan NIM : 2100018117
+Masukkan NAMA : ABDAN SYAKURA
+Masukkan Jumlah MATA KULIAH : 2
+Masukkan JUMLAH SKS : 2
+Total Pembayaran :300000
+Diskon :75000
+Total Bayar: 225000
